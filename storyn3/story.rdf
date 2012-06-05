@@ -1,0 +1,223 @@
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:people="http://students.info.uaic.ro/~vlad.manea/people.rdf#"
+    xmlns:geo="http://students.info.uaic.ro/~vlad.manea/geography.rdf#"
+    xmlns:time="http://students.info.uaic.ro/~vlad.manea/times.rdf#"	
+    xmlns:lang="http://students.info.uaic.ro/~vlad.manea/languages.rdf#"
+    xmlns:act="http://students.info.uaic.ro/~vlad.manea/activities.rdf#"
+    xmlns:inst="http://students.info.uaic.ro/~vlad.manea/institutions.rdf#"
+>
+	
+	<geo:Country rdf:about="Romania">
+		<geo:name>Romania</geo:name>
+	</geo:Country>
+	
+	<geo:Country rdf:about="England">
+		<geo:name>England</geo:name>
+	</geo:Country>
+	
+	<geo:Country rdf:about="France">
+		<geo:name>France</geo:name>
+	</geo:Country>
+	
+	<geo:Country rdf:about="China">
+		<geo:name>China</geo:name>
+	</geo:Country>	
+	
+	<geo:Nationality rdf:about="RomanianNationality">
+		<geo:country rdf:resource="Romania"/>
+	</geo:Nationality>
+	
+	<geo:Nationality rdf:about="FrenchNationality">
+		<geo:country rdf:resource="France"/>
+	</geo:Nationality>
+
+	<lang:Language rdf:about="EnglishLanguage">
+		<lang:countriesWhereSpoken>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="England"/>			
+			</rdf:Bag>		
+		</lang:countriesWhereSpoken>
+	</lang:Language>
+	
+	<lang:Language rdf:about="ChineseLanguage">
+		<lang:countriesWhereSpoken>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="China"/>			
+			</rdf:Bag>		
+		</lang:countriesWhereSpoken>
+	</lang:Language>
+	
+	<lang:Language rdf:about="FrenchLanguage">
+		<lang:countriesWhereSpoken>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="France"/>			
+			</rdf:Bag>		
+		</lang:countriesWhereSpoken>
+	</lang:Language>
+	
+	<time:Recurrent rdf:about="sundays">
+		<time:day>sunday</time:day>
+	</time:Recurrent>
+	
+	<inst:Center rdf:about="UAICLanguageCenter">
+		<inst:name>UAIC Language Center</inst:name>
+		<inst:containedIn rdf:resource="UAIC"/>
+	</inst:Center>
+	
+	<inst:University rdf:about="UAIC">
+		<inst:name>University Alexandru Ioan Cuza</inst:name>
+		<inst:locatedIn rdf:resource="Romania"/>
+	</inst:University>
+	
+	<act:LearnContext rdf:about="FrenchLanguageLearnContext">
+		<act:name>Learning French</act:name>
+		<act:contents>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="FrenchLanguage"/>
+			</rdf:Bag>		
+		</act:contents>
+	</act:LearnContext>	
+	
+	<act:LearnContext rdf:about="ChineseLanguageLearnContext">
+		<act:name>Learning Chinese</act:name>
+		<act:contents>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="ChineseLanguage"/>
+			</rdf:Bag>		
+		</act:contents>
+	</act:LearnContext>	
+
+	<act:LearnContext rdf:about="AtUAICCenterLearnContext">
+		<act:name>Learning at UAIC Center</act:name>
+		<act:institution rdf:resource="UAICLanguageCenter"/>
+		<act:time rdf:resource="sundays"/>
+		<act:professors>
+			<rdf:Alt>
+				<rdf:li rdf:resource="PersonP"/>
+			</rdf:Alt>
+		</act:professors>
+	</act:LearnContext>
+	
+	<act:LearnContext rdf:about="AtUAICLearnContext">
+		<act:name>Learning at UAIC</act:name>
+		<act:institution rdf:resource="UAIC"/>
+	</act:LearnContext>
+	
+	<act:LearnContext rdf:about="FrenchLanguageAtUAICCenterLearnContext">
+		<act:subactivityOf>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="FrenchLanguageLearnContext"/>
+				<rdf:_2 rdf:resource="AtUAICCenterLearnContext"/>
+			</rdf:Bag>
+		</act:subactivityOf>
+	</act:LearnContext>
+	
+	<people:Person rdf:about="PersonP">
+		<people:name>P</people:name>
+		<people:title>Professor</people:title>
+		<act:observes>
+			<rdf:Seq>
+				<rdf:_1 rdf:resource="PersonXLearnsFrench"/>
+			</rdf:Seq>		
+		</act:observes>
+		<act:tells>
+			<rdf:Seq>
+				<rdf:_1 rdf:resource="PersonPTellsToXAboutT"/>
+			</rdf:Seq>		
+		</act:tells>
+	</people:Person>
+
+	<people:Person rdf:about="PersonX">
+		<people:name>X</people:name>
+		<people:nationality rdf:resource="RomanianNationality"/>
+		<people:age>20</people:age>
+		<act:knows>
+			<rdf:Seq> 
+				<rdf:li rdf:resource="English"/> 
+				<rdf:li rdf:resource="Chinese"/> 
+			</rdf:Seq>
+		</act:knows>
+		<act:learns>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="FrenchLanguageAtUAICCenterLearnContext"/> 
+			</rdf:Bag>
+		</act:learns>
+		<people:friendOf>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="PersonY"/>
+				<rdf:_2 rdf:resource="PersonZ"/>
+			</rdf:Bag>
+		</people:friendOf>
+	</people:Person>
+	
+	<people:Person rdf:about="PersonY">
+		<people:name>Y</people:name>
+		<act:learns>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="FrenchLanguageAtUAICCenterLearnContext"/> 
+			</rdf:Bag>
+		</act:learns>
+		<people:friendOf>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="PersonX"/>
+			</rdf:Bag>
+		</people:friendOf>		
+	</people:Person>
+	
+	<people:Person rdf:about="PersonZ">
+		<people:name>Z</people:name>
+		<act:learns>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="FrenchLanguageAtUAICCenterLearnContext"/> 
+			</rdf:Bag>
+		</act:learns>
+		<people:friendOf>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="PersonX"/>
+			</rdf:Bag>
+		</people:friendOf>		
+	</people:Person>
+	
+	<people:Person rdf:about="PersonT">
+		<people:name>T</people:name>
+		<act:learns>
+			<rdf:Bag>
+				<rdf:_1 rdf:resource="AtUAICLearnContext"/> 
+				<rdf:_1 rdf:resource="ChineseLanguageLearnContext"/> 
+			</rdf:Bag>
+		</act:learns>
+		<act:knows>
+			<rdf:Seq> 
+				<rdf:li rdf:resource="English"/> 
+			</rdf:Seq>
+		</act:knows>		
+		<people:nationality rdf:resource="FrenchNationality"/>
+	</people:Person>
+	
+	<act:ObserveContext rdf:about="PersonXLearnsFrench">
+		<rdf:subject rdf:resource="PersonX"/>
+		<rdf:predicate rdf:resource="http://students.info.uaic.ro/~vlad.manea/activities.rdf#Learn"/>
+		<rdf:object rdf:resource="FrenchLanguageLearnContext"/>
+	</act:ObserveContext>
+
+	<act:ObserveContext rdf:about="PersonTLearnsAtUAIC">
+		<rdf:subject rdf:resource="PersonT"/>
+		<rdf:predicate rdf:resource="http://students.info.uaic.ro/~vlad.manea/activities.rdf#Learn"/>
+		<rdf:object rdf:resource="AtUAICLearnContext"/>
+	</act:ObserveContext>
+	
+	<act:TellContext rdf:about="PersonPTellsToXAboutT">
+		<act:messages>
+			<rdf:Seq>
+				<rdf:li rdf:resource="PersonTLearnsAtUAIC"/>
+			</rdf:Seq>
+		</act:messages>
+		<act:recipients>
+			<rdf:Bag>
+				<rdf:li rdf:resource="PersonX"/>
+			</rdf:Bag>
+		</act:recipients>
+	</act:TellContext>
+	
+</rdf:RDF>

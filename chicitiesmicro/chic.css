@@ -1,0 +1,23 @@
+body > * {
+	border:#f9f9f9;
+	margin:auto;
+	padding:20px;
+	text-align:justify;
+	width:800px;
+}
+
+body img {
+	border:1px solid #630;
+}
+
+body a {
+	color:#f60;
+	text-decoration:none;
+}
+
+body a:hover {
+	color:#c30;
+	text-decoration:none;
+}
+
+

@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="600" viewBox="0 0 15911 10689" width="800"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g style="font-family:Dialog,serif;font-style:normal;font-weight:normal;font-size:10">
+        <a xlink:href="file:/F:/PersonTLearnsAtUAIC">
+            <ellipse cx="10690" cy="5234" rx="82" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/PersonTLearnsAtUAIC">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="10622" y="5237">file:/F:/PersonTLearnsAtUAIC</text>
+        </a>
+        <a xlink:href="file:/F:/AtUAICLearnContext">
+            <ellipse cx="12583" cy="5239" rx="78" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/AtUAICLearnContext">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="12518" y="5242">file:/F:/AtUAICLearnContext</text>
+        </a>
+        <path
+            d="M10763 5227C10784 5225 10802 5223 10819 5223 10927 5218 10955 5220 11063 5223 11247 5227 11293 5238 11477 5242 11855 5250 12305 5244 12506 5241" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12511,5241 12503,5245 12503,5237" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="11595" y="5239">rdf:object</text>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/activities.rdf#Learn">
+            <ellipse cx="11270" cy="5296" rx="27" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/activities.rdf#Learn">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="11248" y="5299">act:Learn</text>
+        </a>
+        <path
+            d="M10718 5251C10744 5265 10782 5285 10819 5293 10926 5317 11051 5315 11244 5299" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11249,5299 11241,5303 11241,5295" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10914" y="5290">rdf:predicate</text>
+        <a xlink:href="file:/F:/PersonT">
+            <ellipse cx="11270" cy="5350" rx="43" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/PersonT">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="11234" y="5353">file:/F:/PersonT</text>
+        </a>
+        <path
+            d="M10709 5252C10730 5274 10773 5312 10819 5329 10954 5377 11126 5367 11229 5356" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11234,5355 11226,5360 11226,5352" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10920" y="5326">rdf:subject</text>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/activities.rdf#ObserveContext">
+            <ellipse cx="11270" cy="5166" rx="55" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/activities.rdf#ObserveContext">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="11224" y="5169">act:ObserveContext</text>
+        </a>
+        <path
+            d="M10735 5220C10760 5211 10791 5203 10819 5198 10870 5189 10989 5181 11216 5169" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11221,5169 11213,5173 11213,5165" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10926" y="5174">rdf:type</text>
+        <a xlink:href="file:/F:/UAIC">
+            <ellipse cx="13262" cy="4911" rx="34" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/UAIC">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="13234" y="4914">file:/F:/UAIC</text>
+        </a>
+        <path
+            d="M12619 5223C12654 5206 12713 5178 12763 5154 12936 5070 13142 4969 13237 4923" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13241,4921 13236,4928 13233,4921" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12900" y="5008">act:institution</text>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/activities.rdf#LearnContext">
+            <ellipse cx="13262" cy="5323" rx="49" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/activities.rdf#LearnContext">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="13222" y="5326">act:LearnContext</text>
+        </a>
+        <path
+            d="M12658 5244C12753 5252 12919 5267 13061 5287 13097 5292 13136 5298 13219 5315" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13224,5316 13215,5318 13217,5310" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12906" y="5254">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="98" x="13214" y="5213"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="13223" y="5234">Learning at UAIC</text>
+        <path d="M12660 5239C12802 5236 13088 5233 13214 5231" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13219,5231 13211,5235 13211,5227" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12908" y="5231">act:name</text>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/people.rdf#Person">
+            <ellipse cx="11931" cy="5434" rx="41" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/people.rdf#Person">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="11897" y="5437">people:Person</text>
+        </a>
+        <path
+            d="M11311 5356C11359 5361 11422 5369 11477 5375 11599 5387 11630 5381 11751 5398 11783 5402 11819 5409 11895 5426" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11900,5427 11891,5429 11893,5421" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="11599" y="5372">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="11904" y="5345"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="11928" y="5366">T</text>
+        <path d="M11312 5351C11447 5353 11783 5360 11904 5363" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11909,5363 11901,5367 11901,5359" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="11593" y="5352">people:name</text>
+        <a xlink:href="genid:7ff0">
+            <ellipse cx="11931" cy="5528" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M11304 5361C11349 5375 11418 5396 11477 5413 11628 5455 11808 5499 11904 5522" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11909,5523 11900,5525 11902,5517" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="11600" y="5410">act:learns</text>
+        <a xlink:href="genid:7fef">
+            <ellipse cx="11931" cy="5157" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M11310 5357C11359 5361 11421 5359 11459 5323 11490 5293 11446 5258 11477 5229 11590 5119 11798 5136 11904 5153" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11909,5154 11900,5157 11902,5149" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="11600" y="5137">act:knows</text>
+        <a xlink:href="file:/F:/FrenchNationality">
+            <ellipse cx="11931" cy="4805" rx="70" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/FrenchNationality">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="11873" y="4808">file:/F:/FrenchNationality</text>
+        </a>
+        <path
+            d="M11310 5357C11359 5362 11423 5361 11459 5323 11492 5287 11452 5147 11477 5105 11569 4948 11778 4858 11887 4819" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11892,4817 11886,4824 11883,4816" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="11582" y="4874">people:nationality</text>
+        <a xlink:href="file:/F:/PersonXLearnsFrench">
+            <ellipse cx="10690" cy="5142" rx="82" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/PersonXLearnsFrench">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="10622" y="5145">file:/F:/PersonXLearnsFrench</text>
+        </a>
+        <path
+            d="M10717 5160C10741 5175 10781 5199 10819 5213 10922 5250 11045 5271 11244 5294" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11249,5295 11241,5298 11241,5290" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10914" y="5210">rdf:predicate</text>
+        <a xlink:href="file:/F:/FrenchLanguageLearnContext">
+            <ellipse cx="11270" cy="5112" rx="106" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/FrenchLanguageLearnContext">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="11182" y="5115">file:/F:/FrenchLanguageLearnContext</text>
+        </a>
+        <path
+            d="M10767 5137C10786 5135 10803 5134 10819 5133 10935 5126 11068 5120 11167 5116" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11172,5116 11164,5120 11164,5112" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10922" y="5119">rdf:object</text>
+        <a xlink:href="file:/F:/PersonX">
+            <ellipse cx="4681" cy="4942" rx="43" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/PersonX">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="4645" y="4945">file:/F:/PersonX</text>
+        </a>
+        <path
+            d="M10667 5125C10632 5099 10572 5055 10561 5050 10431 4993 10388 5002 10247 4986 9902 4945 9813 4959 9465 4959 6263 4959 6263 4959 6263 4959 5992 4959 5925 4980 5654 4980 5066 4980 5066 4980 5066 4980 4948 4980 4811 4962 4721 4949" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="4716,4948 4725,4945 4723,4953" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="7150" y="4956">rdf:subject</text>
+        <path d="M10770 5145C10854 5148 10981 5154 11216 5164" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11221,5164 11213,5168 11213,5160" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10926" y="5145">rdf:type</text>
+        <path
+            d="M11361 5104C11397 5105 11434 5114 11459 5139 11495 5174 11440 5216 11477 5250 11592 5357 12646 5340 13214 5325" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13219,5325 13211,5329 13211,5321" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12233" y="5330">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="94" x="11884" y="5085"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="11892" y="5106">Learning French</text>
+        <path
+            d="M11375 5116C11469 5118 11620 5120 11751 5116 11794 5114 11842 5111 11884 5108" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11889,5108 11881,5112 11881,5104" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="11601" y="5113">act:name</text>
+        <a xlink:href="genid:7ffd">
+            <ellipse cx="13262" cy="5174" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M11353 5124C11384 5128 11423 5134 11459 5139 11597 5159 11630 5174 11769 5184 11916 5194 12984 5178 13234 5174" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13239,5174 13231,5178 13231,5170" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12229" y="5183">act:contents</text>
+        <a xlink:href="file:/F:/RomanianNationality">
+            <ellipse cx="11931" cy="4747" rx="80" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/RomanianNationality">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="11865" y="4750">file:/F:/RomanianNationality</text>
+        </a>
+        <path
+            d="M4684 4925C4689 4891 4705 4823 4749 4791 4806 4749 4995 4758 5066 4758 5066 4758 5066 4758 11271 4758 11475 4758 11714 4752 11852 4749" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11857,4749 11849,4753 11849,4745" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="7714" y="4755">people:nationality</text>
+        <path
+            d="M4702 4958C4716 4967 4732 4977 4749 4983 4883 5029 4924 5018 5066 5018 5066 5018 5066 5018 7450 5018 7935 5018 8063 5018 8535 5130 8662 5160 8702 5160 8809 5234 8819 5240 8816 5249 8827 5254 8927 5302 10708 5363 10819 5370 11233 5394 11337 5398 11751 5423 11760 5423 11770 5424 11891 5432" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11896,5432 11888,5436 11888,5428" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="7731" y="5016">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="5040" y="4824"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="5064" y="4845">X</text>
+        <path
+            d="M4697 4926C4710 4912 4729 4895 4749 4886 4844 4844 4968 4840 5040 4841" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5045,4841 5037,4845 5037,4837" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="4860" y="4838">people:name</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="5040" y="4878"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="5061" y="4899">20</text>
+        <path
+            d="M4718 4934C4732 4931 4741 4929 4749 4928 4850 4912 4971 4902 5040 4898" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5045,4898 5037,4902 5037,4894" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="4863" y="4898">people:age</text>
+        <a xlink:href="genid:7ff7">
+            <ellipse cx="11931" cy="4935" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M4687 4925C4695 4897 4714 4848 4749 4826 4868 4749 4924 4796 5066 4796 5066 4796 5066 4796 5654 4796 6675 4796 9227 4801 10247 4836 10899 4858 11692 4917 11903 4933" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11908,4933 11900,4937 11900,4929" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="7732" y="4799">act:knows</text>
+        <a xlink:href="genid:7ff6">
+            <ellipse cx="5839" cy="4934" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path d="M4723 4942C4922 4940 5611 4935 5811 4934" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5816,4934 5808,4938 5808,4930" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5239" y="4935">act:learns</text>
+        <a xlink:href="genid:7ff5">
+            <ellipse cx="5067" cy="5593" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path d="M4693 4960C4746 5050 4987 5459 5058 5577" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5061,5581 5053,5576 5060,5572" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="4853" y="5064">people:friendOf</text>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/geography.rdf#Nationality">
+            <ellipse cx="12583" cy="4767" rx="43" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/geography.rdf#Nationality">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="12547" y="4770">geo:Nationality</text>
+        </a>
+        <path d="M12010 4749C12107 4752 12272 4757 12541 4766" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12546,4766 12538,4770 12538,4762" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12233" y="4750">rdf:type</text>
+        <a xlink:href="file:/F:/Romania">
+            <ellipse cx="13946" cy="4805" rx="46" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/Romania">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="13908" y="4808">file:/F:/Romania</text>
+        </a>
+        <path
+            d="M12007 4743C12041 4740 12078 4739 12111 4738 12233 4735 12263 4737 12385 4738 12553 4738 12595 4735 12763 4740 13194 4753 13713 4788 13902 4802" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13907,4802 13899,4806 13899,4798" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12903" y="4738">geo:country</text>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/geography.rdf#Country">
+            <ellipse cx="15877" cy="4855" rx="34" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/geography.rdf#Country">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="15849" y="4858">geo:Country</text>
+        </a>
+        <path
+            d="M13986 4798C14145 4767 14668 4677 15101 4707 15362 4725 15476 4629 15685 4787 15701 4799 15687 4816 15703 4828 15709 4833 15716 4837 15844 4852" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15849,4853 15841,4856 15841,4848" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14975" y="4699">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="14656" y="4787"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="14662" y="4808">Romania</text>
+        <path d="M13991 4805C14136 4805 14525 4805 14656 4805" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="14661,4805 14653,4809 14653,4801" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14300" y="4802">geo:name</text>
+        <a xlink:href="file:/F:/UAICLanguageCenter">
+            <ellipse cx="7746" cy="5184" rx="82" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/UAICLanguageCenter">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="7678" y="5187">file:/F:/UAICLanguageCenter</text>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/institutions.rdf#Center">
+            <ellipse cx="8363" cy="5211" rx="30" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/institutions.rdf#Center">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="8338" y="5214">inst:Center</text>
+        </a>
+        <path d="M7826 5187C7920 5191 8075 5198 8334 5210" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="8339,5210 8331,5214 8331,5206" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8022" y="5189">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="130" x="8299" y="5139"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="8310" y="5160">UAIC Language Center</text>
+        <path d="M7826 5181C7950 5175 8182 5165 8299 5160" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="8304,5160 8296,5164 8296,5156" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8023" y="5163">inst:name</text>
+        <path
+            d="M7799 5171C7830 5163 7867 5156 7901 5151 8404 5079 8535 5109 9041 5068 9279 5048 9338 5043 9575 5020 9716 5006 9750 4997 9891 4986 10655 4923 10846 4889 11613 4889 11613 4889 11613 4889 12584 4889 12818 4889 13097 4902 13229 4910" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13234,4910 13226,4914 13226,4906" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10386" y="4926">inst:containedIn</text>
+        <path d="M13294 4907C13416 4887 13754 4834 13903 4812" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13908,4811 13901,4816 13899,4809" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="13584" y="4834">inst:locatedIn</text>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/institutions.rdf#University">
+            <ellipse cx="13946" cy="4911" rx="38" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/institutions.rdf#University">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="13914" y="4914">inst:University</text>
+        </a>
+        <path d="M13295 4911C13391 4911 13601 4911 13909 4911" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13914,4911 13906,4915 13906,4907" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="13591" y="4908">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="176" x="13859" y="4947"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="13874" y="4968">University Alexandru Ioan Cuza</text>
+        <path d="M13295 4914C13412 4923 13713 4946 13858 4958" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13863,4958 13855,4962 13855,4954" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="13592" y="4924">inst:name</text>
+        <a xlink:href="genid:7ffc">
+            <ellipse cx="13262" cy="5483" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag">
+            <ellipse cx="15258" cy="5548" rx="27" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="15241" y="5551">rdf:Bag</text>
+        </a>
+        <path
+            d="M13290 5481C13378 5475 13590 5460 13767 5456 14360 5440 14514 5426 15101 5515 15127 5519 15156 5524 15233 5543" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15238,5544 15229,5546 15231,5538" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14300" y="5442">rdf:type</text>
+        <a xlink:href="file:/F:/ChineseLanguage">
+            <ellipse cx="13946" cy="5332" rx="71" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/ChineseLanguage">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="13887" y="5335">file:/F:/ChineseLanguage</text>
+        </a>
+        <path
+            d="M13290 5486C13335 5488 13400 5486 13445 5456 13458 5447 13450 5435 13463 5426 13583 5341 13761 5328 13877 5329" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13882,5329 13874,5333 13874,5325" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="13595" y="5332">rdf:_1</text>
+        <a xlink:href="genid:7fff">
+            <ellipse cx="14683" cy="5278" rx="27" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M14013 5327C14054 5323 14101 5320 14143 5317 14327 5303 14547 5287 14657 5280" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="14662,5280 14654,5284 14654,5276" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14262" y="5290">lang:countriesWhereSpoken</text>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/languages.rdf#Language">
+            <ellipse cx="14683" cy="5332" rx="43" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/languages.rdf#Language">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="14647" y="5335">lang:Language</text>
+        </a>
+        <path d="M14016 5332C14129 5332 14341 5332 14641 5332" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="14646,5332 14638,5336 14638,5328" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14300" y="5329">rdf:type</text>
+        <a xlink:href="genid:7ffb">
+            <ellipse cx="7746" cy="5287" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt">
+            <ellipse cx="8363" cy="5265" rx="27" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="8349" y="5268">rdf:Alt</text>
+        </a>
+        <path d="M7774 5286C7864 5283 8078 5275 8337 5267" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="8342,5267 8334,5271 8334,5263" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8022" y="5270">rdf:type</text>
+        <a xlink:href="file:/F:/PersonP">
+            <ellipse cx="8363" cy="5319" rx="43" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/PersonP">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="8327" y="5322">file:/F:/PersonP</text>
+        </a>
+        <path
+            d="M7774 5289C7812 5291 7860 5294 7901 5297 8046 5305 8216 5312 8321 5317" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="8326,5317 8318,5321 8318,5313" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8026" y="5294">rdf:_1</text>
+        <path
+            d="M8405 5319C8448 5320 8497 5326 8535 5346 8545 5351 8543 5359 8553 5364 8705 5442 8762 5426 8933 5426 8933 5426 8933 5426 9734 5426 10489 5426 11389 5431 11891 5434" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11896,5434 11888,5438 11888,5430" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10054" y="5424">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="8907" y="5301"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="8931" y="5322">P</text>
+        <path d="M8405 5319C8524 5319 8798 5319 8907 5319" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="8912,5319 8904,5323 8904,5315" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8660" y="5316">people:name</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="8908" y="5355"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="8914" y="5376">Professor</text>
+        <path d="M8405 5323C8521 5334 8795 5360 8908 5371" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="8913,5371 8905,5375 8905,5367" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8663" y="5336">people:title</text>
+        <a xlink:href="genid:7ff9">
+            <ellipse cx="10069" cy="5013" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M8404 5324C8448 5325 8501 5321 8535 5292 8555 5274 8533 5252 8553 5234 8725 5082 9348 5125 9575 5096 9743 5074 9941 5037 10042 5019" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="10047,5018 10040,5023 10038,5016" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="9177" y="5107">act:observes</text>
+        <a xlink:href="genid:7ff8">
+            <ellipse cx="8934" cy="5227" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M8403 5313C8443 5306 8492 5299 8535 5292 8664 5271 8817 5246 8906 5232" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="8911,5231 8904,5236 8902,5229" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8672" y="5246">act:tells</text>
+        <a xlink:href="file:/F:/China">
+            <ellipse cx="15258" cy="4891" rx="37" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/China">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="15228" y="4894">file:/F:/China</text>
+        </a>
+        <path
+            d="M15294 4890C15378 4886 15545 4879 15685 4870 15700 4869 15715 4868 15844 4858" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15849,4858 15841,4862 15841,4854" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="15535" y="4867">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="15850" y="4891"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="15863" y="4912">China</text>
+        <path
+            d="M15293 4896C15331 4900 15376 4905 15415 4907 15573 4915 15762 4912 15850 4910" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15855,4910 15847,4914 15847,4906" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="15535" y="4904">geo:name</text>
+        <a xlink:href="genid:7ffa">
+            <ellipse cx="6767" cy="5341" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M6793 5334C6927 5293 7455 5143 7901 5097 8189 5067 8263 5082 8553 5074 9306 5052 9494 5056 10247 5040 10395 5036 10431 5034 10579 5032 10678 5031 10703 5022 10801 5032 10927 5044 10956 5068 11081 5089 11110 5093 11142 5098 11182 5103" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11187,5104 11179,5107 11179,5099" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8923" y="5059">rdf:_1</text>
+        <path
+            d="M6794 5347C6883 5366 7113 5414 7307 5440 7914 5521 8068 5558 8680 5558 8680 5558 8680 5558 10414 5558 12266 5558 14516 5550 15232 5548" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15237,5548 15229,5552 15229,5544" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10675" y="5555">rdf:type</text>
+        <a xlink:href="file:/F:/AtUAICCenterLearnContext">
+            <ellipse cx="7171" cy="5341" rx="97" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/AtUAICCenterLearnContext">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="7091" y="5344">file:/F:/AtUAICCenterLearnContext</text>
+        </a>
+        <path d="M6795 5341C6860 5341 6977 5341 7075 5341" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="7080,5341 7072,5345 7072,5337" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="6917" y="5338">rdf:_2</text>
+        <path
+            d="M7207 5325C7235 5312 7273 5297 7307 5286 7433 5246 7585 5214 7682 5196" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="7687,5195 7680,5200 7678,5193" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="7428" y="5212">act:institution</text>
+        <path
+            d="M7252 5332C7271 5329 7290 5327 7307 5326 7451 5311 7622 5297 7718 5289" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="7723,5289 7715,5293 7715,5285" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="7426" y="5298">act:professors</text>
+        <path
+            d="M7214 5358C7240 5367 7275 5379 7307 5386 7692 5472 7797 5437 8191 5454 8707 5475 8837 5473 9353 5486 9592 5491 9652 5494 9891 5497 10049 5498 10089 5497 10247 5497 10915 5494 11083 5513 11751 5486 11827 5483 12032 5506 12093 5461 12110 5448 12094 5429 12111 5416 12112 5415 12798 5360 13215 5327" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13220,5327 13212,5331 13212,5323" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10054" y="5494">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="138" x="7677" y="5323"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="7689" y="5344">Learning at UAIC Center</text>
+        <path d="M7267 5341C7383 5341 7574 5341 7677 5341" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="7682,5341 7674,5345 7674,5337" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="7436" y="5338">act:name</text>
+        <a xlink:href="file:/F:/sundays">
+            <ellipse cx="7746" cy="5395" rx="42" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/sundays">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="7711" y="5398">file:/F:/sundays</text>
+        </a>
+        <path
+            d="M7255 5351C7271 5352 7290 5354 7307 5356 7443 5369 7604 5383 7705 5392" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="7710,5392 7702,5396 7702,5388" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="7439" y="5353">act:time</text>
+        <a xlink:href="file:/F:/England">
+            <ellipse cx="15258" cy="5716" rx="44" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/England">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="15222" y="5719">file:/F:/England</text>
+        </a>
+        <path
+            d="M15277 5701C15308 5675 15362 5626 15397 5575 15574 5314 15564 5218 15685 4928 15694 4907 15686 4895 15703 4882 15709 4877 15716 4873 15844 4859" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15849,4858 15841,4863 15841,4855" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="15535" y="4925">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="15850" y="5698"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="15857" y="5719">England</text>
+        <path d="M15301 5716C15426 5716 15734 5716 15850 5716" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15855,5716 15847,5720 15847,5712" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="15535" y="5713">geo:name</text>
+        <path
+            d="M14709 5278C14792 5277 14976 5286 15101 5364 15166 5404 15218 5480 15247 5532" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15249,5536 15242,5531 15249,5527" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14975" y="5288">rdf:type</text>
+        <path d="M14702 5266C14791 5205 15123 4981 15236 4906" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15240,4903 15236,4911 15231,4904" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14979" y="5003">rdf:_1</text>
+        <path
+            d="M13290 5176C13334 5180 13395 5188 13445 5204 13596 5252 13614 5317 13767 5359 14002 5423 14619 5424 14861 5452 14968 5464 14997 5458 15101 5486 15139 5496 15180 5512 15236 5539" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15241,5541 15232,5541 15235,5534" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14300" y="5406">rdf:type</text>
+        <a xlink:href="file:/F:/FrenchLanguage">
+            <ellipse cx="13946" cy="5174" rx="68" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/FrenchLanguage">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="13889" y="5177">file:/F:/FrenchLanguage</text>
+        </a>
+        <path d="M13290 5174C13402 5174 13716 5174 13879 5174" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13884,5174 13876,5178 13876,5170" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="13595" y="5171">rdf:_1</text>
+        <a xlink:href="genid:7ffe">
+            <ellipse cx="14683" cy="4859" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M14711 4859C14798 4861 14997 4879 15101 4991 15247 5147 15258 5429 15258 5530" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15258,5535 15254,5527 15262,5527" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14975" y="4878">rdf:type</text>
+        <a xlink:href="file:/F:/France">
+            <ellipse cx="15258" cy="4804" rx="40" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/France">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="15225" y="4807">file:/F:/France</text>
+        </a>
+        <path d="M14711 4856C14814 4846 15086 4820 15219 4808" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15224,4808 15216,4812 15216,4804" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14979" y="4818">rdf:_1</text>
+        <path
+            d="M15297 4808C15335 4811 15377 4815 15415 4819 15518 4828 15635 4837 15844 4853" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15849,4853 15841,4857 15841,4849" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="15535" y="4816">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="15850" y="4783"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="15861" y="4804">France</text>
+        <path d="M15297 4804C15422 4803 15733 4801 15850 4801" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15855,4801 15847,4805 15847,4797" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="15535" y="4799">geo:name</text>
+        <path d="M13981 5159C14108 5105 14521 4928 14659 4869" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="14664,4867 14658,4874 14655,4867" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14262" y="4941">lang:countriesWhereSpoken</text>
+        <path
+            d="M14013 5172C14125 5169 14340 5180 14487 5278 14499 5286 14493 5297 14505 5305 14513 5310 14521 5314 14642 5329" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="14647,5330 14639,5333 14639,5325" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14300" y="5174">rdf:type</text>
+        <a xlink:href="file:/F:/PersonPTellsToXAboutT">
+            <ellipse cx="9464" cy="5241" rx="90" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/PersonPTellsToXAboutT">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="9389" y="5244">file:/F:/PersonPTellsToXAboutT</text>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/activities.rdf#TellContext">
+            <ellipse cx="10069" cy="5262" rx="44" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/activities.rdf#TellContext">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="10033" y="5265">act:TellContext</text>
+        </a>
+        <path
+            d="M9546 5248C9562 5249 9578 5250 9593 5251 9688 5256 9794 5258 10026 5262" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="10031,5262 10023,5266 10023,5258" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="9718" y="5248">rdf:type</text>
+        <a xlink:href="genid:7fee">
+            <ellipse cx="10069" cy="5208" rx="31" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path d="M9551 5236C9680 5229 9922 5216 10039 5210" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="10044,5210 10036,5214 10036,5206" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="9711" y="5216">act:messages</text>
+        <a xlink:href="genid:7fed">
+            <ellipse cx="10069" cy="5650" rx="31" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M9491 5259C9555 5303 9738 5430 9891 5533 9942 5567 10002 5607 10049 5638" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="10053,5641 10044,5640 10049,5633" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="9712" y="5330">act:recipients</text>
+        <path d="M10099 5209C10200 5213 10458 5224 10610 5231" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="10615,5231 10607,5235 10607,5227" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10402" y="5214">rdf:_1</text>
+        <a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq">
+            <ellipse cx="12583" cy="5019" rx="27" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="12566" y="5022">rdf:Seq</text>
+        </a>
+        <path
+            d="M10097 5202C10183 5182 10398 5137 10579 5115 10842 5083 11789 5066 12385 5033 12407 5032 12430 5030 12557 5022" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12562,5022 12554,5026 12554,5018" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="11255" y="5068">rdf:type</text>
+        <path
+            d="M10039 5652C9954 5657 9757 5671 9593 5683 9188 5712 9088 5753 8682 5753 5066 5753 5066 5753 5066 5753 4887 5753 4837 5659 4749 5503 4697 5410 4685 5070 4683 4959" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="4683,4954 4687,4962 4679,4962" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="6917" y="5750">rdf:_1</text>
+        <path
+            d="M10099 5650C10200 5650 10467 5651 10689 5651 10689 5651 10689 5651 12249 5651 13410 5651 13702 5702 14861 5640 14968 5634 14997 5642 15101 5615 15141 5604 15184 5585 15237 5560" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15241,5558 15236,5565 15233,5558" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12568" y="5648">rdf:type</text>
+        <a xlink:href="file:/F:/PersonY">
+            <ellipse cx="5453" cy="5507" rx="43" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/PersonY">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="5417" y="5510">file:/F:/PersonY</text>
+        </a>
+        <path
+            d="M5490 5498C5503 5495 5512 5493 5521 5492 5645 5475 5678 5482 5803 5480 6255 5470 6369 5486 6821 5488 7877 5492 8140 5472 9196 5472 9196 5472 9196 5472 11271 5472 11453 5472 11662 5457 11891 5438" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11896,5438 11888,5442 11888,5434" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8348" y="5473">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="5812" y="5489"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="5836" y="5510">Y</text>
+        <path d="M5495 5507C5581 5507 5732 5507 5812 5507" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5817,5507 5809,5511 5809,5503" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5632" y="5504">people:name</text>
+        <a xlink:href="genid:7ff4">
+            <ellipse cx="5839" cy="5561" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M5491 5516C5503 5518 5512 5520 5521 5522 5618 5538 5733 5551 5811 5559" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5816,5559 5808,5563 5808,5555" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5639" y="5519">act:learns</text>
+        <a xlink:href="genid:7ff3">
+            <ellipse cx="5839" cy="4712" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path d="M5463 5490C5512 5386 5765 4863 5830 4729" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5832,4724 5832,4733 5825,4730" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5625" y="4825">people:friendOf</text>
+        <path
+            d="M5862 5572C5874 5576 5884 5580 5893 5582 6054 5616 6098 5596 6263 5596 6263 5596 6263 5596 8038 5596 8792 5596 8978 5697 9732 5697 9732 5697 9732 5697 14684 5697 14871 5697 14925 5705 15101 5643 15148 5626 15196 5594 15241 5562" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15245,5559 15241,5567 15236,5561" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10054" y="5694">rdf:type</text>
+        <a xlink:href="file:/F:/FrenchLanguageAtUAICCenterLearnContext">
+            <ellipse cx="6264" cy="5341" rx="145" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/FrenchLanguageAtUAICCenterLearnContext">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="6143" y="5344">file:/F:/FrenchLanguageAtUAICCenterLearnContext</text>
+        </a>
+        <path
+            d="M5858 5549C5866 5542 5871 5538 5875 5534 5884 5524 5883 5518 5893 5510 5986 5435 6117 5385 6206 5358" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="6211,5357 6204,5363 6202,5355" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5989" y="5391">rdf:_1</text>
+        <path
+            d="M5814 4704C5673 4658 5091 4491 4749 4744 4695 4784 4684 4869 4682 4925" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="4682,4930 4678,4922 4686,4922" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5242" y="4605">rdf:_1</text>
+        <path
+            d="M5867 4709C5945 4700 6118 4683 6263 4683 6263 4683 6263 4683 12922 4683 13785 4683 14002 4699 14861 4778 14968 4788 15023 4731 15101 4806 15119 4823 15114 4893 15119 4918 15163 5152 15229 5432 15252 5530" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15253,5535 15247,5528 15255,5526" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10054" y="4680">rdf:type</text>
+        <a xlink:href="file:/F:/PersonZ">
+            <ellipse cx="5453" cy="5652" rx="43" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/PersonZ">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="5418" y="5655">file:/F:/PersonZ</text>
+        </a>
+        <path
+            d="M5490 5643C5503 5640 5512 5638 5521 5637 5677 5616 5718 5625 5875 5626 6706 5628 6914 5635 7745 5635 7745 5635 7745 5635 8682 5635 9153 5635 10331 5613 10801 5580 11225 5550 11331 5538 11751 5471 11783 5466 11819 5459 11895 5443" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="11900,5442 11893,5448 11891,5440" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8348" y="5632">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="5812" y="5689"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="5836" y="5710">Z</text>
+        <path
+            d="M5491 5661C5503 5663 5512 5665 5521 5667 5622 5684 5743 5697 5812 5705" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5817,5706 5809,5709 5809,5701" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5632" y="5664">people:name</text>
+        <a xlink:href="genid:7ff2">
+            <ellipse cx="5839" cy="5653" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path d="M5495 5652C5578 5652 5721 5652 5811 5653" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5816,5653 5808,5657 5808,5649" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5639" y="5649">act:learns</text>
+        <a xlink:href="genid:7ff1">
+            <ellipse cx="5839" cy="5799" rx="29" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M5470 5669C5489 5687 5515 5713 5521 5716 5627 5770 5674 5719 5785 5764 5794 5767 5803 5772 5821 5786" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5825,5789 5816,5787 5821,5781" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5625" y="5713">people:friendOf</text>
+        <path
+            d="M5866 5659C5941 5677 6115 5715 6263 5715 6263 5715 6263 5715 8682 5715 9451 5715 9643 5744 10412 5744 10412 5744 10412 5744 14684 5744 14871 5744 14932 5777 15101 5698 15161 5670 15213 5609 15245 5564" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15248,5560 15246,5569 15240,5564" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10054" y="5735">rdf:type</text>
+        <path
+            d="M5864 5645C5921 5626 6030 5584 6107 5525 6167 5479 6220 5406 6253 5358" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="6256,5354 6255,5363 6248,5358" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5989" y="5522">rdf:_1</text>
+        <path
+            d="M5814 5808C5673 5860 5060 6062 4749 5767 4690 5711 4683 5109 4682 4959" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="4682,4954 4686,4962 4678,4962" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5242" y="5910">rdf:_1</text>
+        <path
+            d="M5867 5799C5946 5795 6118 5791 6263 5791 6263 5791 6263 5791 11271 5791 12867 5791 13266 5778 14861 5758 14968 5756 15017 5819 15101 5754 15125 5735 15104 5715 15119 5689 15147 5641 15194 5598 15241 5561" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15245,5558 15241,5566 15236,5560" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10054" y="5788">rdf:type</text>
+        <path
+            d="M11959 4938C12064 4946 12344 4970 12385 4977 12425 4983 12470 4992 12558 5014" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12563,5015 12554,5017 12556,5009" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12233" y="4948">rdf:type</text>
+        <a xlink:href="file:/F:/English">
+            <ellipse cx="12583" cy="5127" rx="41" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/English">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="12549" y="5130">file:/F:/English</text>
+        </a>
+        <path
+            d="M11951 4948C11988 4971 12054 5020 12093 5076 12105 5093 12093 5109 12111 5121 12144 5144 12409 5135 12543 5129" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12548,5129 12540,5133 12540,5125" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12237" y="5118">rdf:_1</text>
+        <a xlink:href="file:/F:/Chinese">
+            <ellipse cx="12583" cy="4935" rx="43" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/Chinese">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="12548" y="4938">file:/F:/Chinese</text>
+        </a>
+        <path d="M11959 4935C12072 4935 12391 4935 12541 4935" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12546,4935 12538,4939 12538,4931" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12237" y="4932">rdf:_2</text>
+        <path
+            d="M5864 4926C5937 4902 6112 4851 6263 4851 6263 4851 6263 4851 13263 4851 13479 4851 13533 4856 13749 4865 13916 4871 13962 4848 14125 4884 14182 4896 15057 5237 15101 5276 15181 5345 15229 5466 15250 5530" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15252,5535 15245,5528 15253,5526" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10054" y="4848">rdf:type</text>
+        <path d="M5855 4949C5921 5011 6157 5238 6245 5324" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="6249,5327 6240,5325 6246,5319" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5989" y="4991">rdf:_1</text>
+        <path
+            d="M5081 5608C5092 5621 5106 5635 5121 5644 5467 5846 5599 5845 5999 5845 5999 5845 5999 5845 14684 5845 14882 5845 14932 5792 15101 5689 15154 5656 15206 5604 15244 5562" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15247,5559 15245,5565 15240,5561" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="9449" y="5842">rdf:type</text>
+        <path d="M5094 5588C5166 5571 5320 5536 5415 5516" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5420,5515 5413,5521 5411,5513" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5242" y="5521">rdf:_1</text>
+        <path d="M5095 5598C5167 5608 5316 5631 5413 5646" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="5418,5647 5409,5650 5411,5642" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="5242" y="5599">rdf:_2</text>
+        <path
+            d="M10095 5020C10139 5031 10206 5049 10265 5061 10396 5087 10431 5081 10561 5109 10583 5113 10607 5119 10639 5129" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="10644,5130 10635,5132 10637,5124" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10402" y="5058">rdf:_1</text>
+        <path
+            d="M10097 5010C10143 5005 10208 4999 10265 4997 10503 4987 10563 4996 10801 4997 11505 4999 11682 4978 12385 5005 12408 5006 12432 5007 12557 5017" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12562,5017 12554,5021 12554,5013" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="11255" y="4990">rdf:type</text>
+        <path d="M8962 5228C9049 5230 9245 5235 9376 5239" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="9381,5239 9373,5243 9373,5235" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="9186" y="5228">rdf:_1</text>
+        <path
+            d="M8962 5223C9118 5200 9746 5111 10265 5075 11083 5018 12066 5016 12557 5019" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12562,5019 12554,5023 12554,5015" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="10675" y="5044">rdf:type</text>
+        <path
+            d="M11956 5520C12034 5494 12230 5427 12385 5353 12444 5325 12508 5286 12556 5256" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12560,5253 12556,5261 12551,5254" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12237" y="5350">rdf:_1</text>
+        <path
+            d="M11959 5528C12064 5528 12347 5529 12582 5529 12582 5529 12582 5529 14684 5529 14833 5529 15003 5535 15232 5547" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15237,5547 15229,5551 15229,5543" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="13591" y="5526">rdf:type</text>
+        <a xlink:href="file:/F:/ChineseLanguageLearnContext">
+            <ellipse cx="12583" cy="5469" rx="109" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/ChineseLanguageLearnContext">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="12492" y="5472">file:/F:/ChineseLanguageLearnContext</text>
+        </a>
+        <path d="M11959 5526C12061 5516 12329 5492 12487 5478" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12492,5478 12484,5482 12484,5474" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12237" y="5486">rdf:_1</text>
+        <path
+            d="M11959 5158C12001 5158 12054 5153 12093 5130 12104 5123 12099 5112 12111 5106 12164 5076 12325 5094 12385 5082 12435 5072 12489 5054 12560 5028" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12565,5026 12559,5033 12556,5025" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12233" y="5079">rdf:type</text>
+        <path
+            d="M11959 5158C12042 5161 12229 5165 12385 5154 12434 5150 12490 5142 12545 5134" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12550,5133 12543,5138 12541,5131" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12237" y="5151">rdf:_1</text>
+        <path d="M11999 4802C12100 4795 12283 4784 12541 4770" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="12546,4770 12538,4774 12538,4766" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12233" y="4777">rdf:type</text>
+        <path
+            d="M12000 4808C12191 4818 12703 4838 12763 4794 12784 4778 12760 4753 12781 4738 12854 4683 13513 4721 13605 4721 13605 4721 13605 4721 14684 4721 14870 4721 14919 4706 15101 4745 15143 4754 15188 4772 15231 4792" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15236,4794 15227,4794 15230,4787" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="13588" y="4714">geo:country</text>
+        <path d="M6409 5341C6509 5341 6650 5341 6739 5341" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="6744,5341 6736,5345 6736,5337" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="6539" y="5338">act:subactivityOf</text>
+        <path
+            d="M6281 5324C6342 5261 6551 5064 6766 5064 6766 5064 6766 5064 7450 5064 8062 5064 8215 5053 8827 5047 9053 5044 9110 5032 9335 5045 9376 5047 10769 5182 10801 5207 10819 5220 10801 5241 10819 5254 10834 5264 11441 5268 11459 5269 12051 5285 12752 5306 13214 5322" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13219,5322 13211,5326 13211,5318" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="9449" y="5044">rdf:type</text>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/times.rdf#Recurrent">
+            <ellipse cx="8363" cy="5427" rx="42" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="http://students.info.uaic.ro/~vlad.manea/times.rdf#Recurrent">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="8328" y="5430">time:Recurrent</text>
+        </a>
+        <path
+            d="M7787 5398C7825 5400 7865 5403 7901 5405 8000 5410 8110 5416 8322 5426" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="8327,5426 8319,5430 8319,5422" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8022" y="5402">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="54" x="8336" y="5355"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="8347" y="5376">sunday</text>
+        <path d="M7787 5394C7914 5389 8220 5378 8336 5374" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="8341,5374 8333,5378 8333,5370" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="8025" y="5378">time:day</text>
+        <path
+            d="M12673 5480C12704 5483 12744 5487 12781 5489 12942 5497 13133 5489 13234 5485" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13239,5485 13231,5489 13231,5481" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12902" y="5486">act:contents</text>
+        <path
+            d="M12665 5458C12702 5453 12743 5448 12781 5444 12843 5437 13005 5448 13061 5421 13071 5416 13069 5408 13079 5402 13115 5377 13160 5357 13225 5335" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13230,5333 13223,5340 13221,5332" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12906" y="5418">rdf:type</text>
+        <rect height="36"
+            style="fill:rgb(255,223,123);stroke:rgb(132,117,66)"
+            width="100" x="13212" y="5411"/>
+        <text style="fill:rgb(132,117,66)" text-anchor="start" x="13221" y="5432">Learning Chinese</text>
+        <path
+            d="M12692 5469C12787 5468 12934 5465 13061 5455 13110 5451 13166 5443 13212 5437" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="13217,5436 13210,5441 13208,5433" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="12908" y="5452">act:name</text>
+        <a xlink:href="genid:8000">
+            <ellipse cx="14683" cy="5613" rx="32" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <path
+            d="M14714 5614C14795 5615 14962 5614 15101 5592 15134 5586 15170 5577 15235 5556" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15240,5554 15233,5561 15231,5553" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14975" y="5589">rdf:type</text>
+        <path d="M14713 5619C14816 5636 15088 5685 15218 5709" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="15223,5710 15214,5712 15216,5705" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14979" y="5646">rdf:_1</text>
+        <a xlink:href="file:/F:/EnglishLanguage">
+            <ellipse cx="13946" cy="5483" rx="70" ry="18" style="fill:rgb(115,191,115);stroke:rgb(66,105,66)"/>
+        </a>
+        <a xlink:href="file:/F:/EnglishLanguage">
+            <text style="fill:rgb(66,105,66)" text-anchor="start"
+                x="13888" y="5486">file:/F:/EnglishLanguage</text>
+        </a>
+        <path
+            d="M14007 5493C14108 5506 14320 5525 14487 5470 14556 5447 14623 5390 14667 5348" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="14671,5345 14668,5353 14662,5347" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14300" y="5467">rdf:type</text>
+        <path d="M14004 5493C14147 5518 14509 5582 14653 5608" style="fill:none;stroke:rgb(90,89,206)"/>
+        <polygon points="14658,5609 14649,5611 14651,5604" style="fill:rgb(90,89,206);stroke:none"/>
+        <text style="fill:rgb(90,89,206)" text-anchor="start" x="14262" y="5515">lang:countriesWhereSpoken</text>
+    </g>
+</svg>
+<!-- Generated by ZVTM (Zoomable Visual Transformation Machine) v0.9.1 http://zvtm.sourceforge.net-->

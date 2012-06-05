@@ -1,0 +1,48 @@
+BEGIN:VCARD
+PRODID:-//kaply.com//Operator 0.8//EN
+SOURCE:file:///media/Data/WAD4/Stephen-Hawking.html
+NAME:Stephen Hawking
+VERSION:3.0
+N;CHARSET=UTF-8:Hawking;Stephen;William;;
+ORG;CHARSET=UTF-8:University of Cambridge
+FN;CHARSET=UTF-8:Stephen Hawking
+TITLE;CHARSET=UTF-8:Lucasian Professor of Mathematics
+ROLE;CHARSET=UTF-8:theoretical physicist
+BDAY:1942-01-08
+UID:
+LABEL:cosmology, quantum gravity, black holes, theories
+END:VCARD
+BEGIN:VCARD
+PRODID:-//kaply.com//Operator 0.8//EN
+SOURCE:file:///media/Data/WAD4/Stephen-Hawking.html
+NAME:Stephen Hawking
+VERSION:3.0
+N:;;;;
+ORG;CHARSET=UTF-8:University of Cambridge
+FN;CHARSET=UTF-8:University of Cambridge
+UID:
+ADR;CHARSET=UTF-8:;;;Cambridge;;;
+END:VCARD
+BEGIN:VCARD
+PRODID:-//kaply.com//Operator 0.8//EN
+SOURCE:file:///media/Data/WAD4/Stephen-Hawking.html
+NAME:Stephen Hawking
+VERSION:3.0
+N:;;;;
+ORG;CHARSET=UTF-8:Gonville and Caius College
+FN;CHARSET=UTF-8:Gonville and Caius College
+UID:
+ADR;CHARSET=UTF-8:;;;Cambridge;;;
+END:VCARD
+BEGIN:VCARD
+PRODID:-//kaply.com//Operator 0.8//EN
+SOURCE:file:///media/Data/WAD4/Stephen-Hawking.html
+NAME:Stephen Hawking
+VERSION:3.0
+N:;;;;
+ORG;CHARSET=UTF-8:London Sunday Times
+FN;CHARSET=UTF-8:London Sunday Times
+TITLE;CHARSET=UTF-8:bestseller list
+UID:
+ADR;CHARSET=UTF-8:;;;London;;;
+END:VCARD

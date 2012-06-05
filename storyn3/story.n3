@@ -1,0 +1,249 @@
+# Base: file:/F:/story.rdf
+@prefix :        <#> .
+
+<file:/F:/RomanianNationality>
+      a       <http://students.info.uaic.ro/~vlad.manea/geography.rdf#Nationality> ;
+      <http://students.info.uaic.ro/~vlad.manea/geography.rdf#country>
+              <file:/F:/Romania> .
+
+<file:/F:/UAICLanguageCenter>
+      a       <http://students.info.uaic.ro/~vlad.manea/institutions.rdf#Center> ;
+      <http://students.info.uaic.ro/~vlad.manea/institutions.rdf#containedIn>
+              <file:/F:/UAIC> ;
+      <http://students.info.uaic.ro/~vlad.manea/institutions.rdf#name>
+              "UAIC Language Center" .
+
+<file:/F:/Romania>
+      a       <http://students.info.uaic.ro/~vlad.manea/geography.rdf#Country> ;
+      <http://students.info.uaic.ro/~vlad.manea/geography.rdf#name>
+              "Romania" .
+
+<file:/F:/China>
+      a       <http://students.info.uaic.ro/~vlad.manea/geography.rdf#Country> ;
+      <http://students.info.uaic.ro/~vlad.manea/geography.rdf#name>
+              "China" .
+
+<file:/F:/England>
+      a       <http://students.info.uaic.ro/~vlad.manea/geography.rdf#Country> ;
+      <http://students.info.uaic.ro/~vlad.manea/geography.rdf#name>
+              "England" .
+
+<file:/F:/FrenchLanguageLearnContext>
+      a       <http://students.info.uaic.ro/~vlad.manea/activities.rdf#LearnContext> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#contents>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/FrenchLanguage>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#name>
+              "Learning French" .
+
+<file:/F:/ChineseLanguage>
+      a       <http://students.info.uaic.ro/~vlad.manea/languages.rdf#Language> ;
+      <http://students.info.uaic.ro/~vlad.manea/languages.rdf#countriesWhereSpoken>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/China>
+              ] .
+
+<file:/F:/PersonPTellsToXAboutT>
+      a       <http://students.info.uaic.ro/~vlad.manea/activities.rdf#TellContext> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#messages>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/PersonTLearnsAtUAIC>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#recipients>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/PersonX>
+              ] .
+
+<file:/F:/UAIC>
+      a       <http://students.info.uaic.ro/~vlad.manea/institutions.rdf#University> ;
+      <http://students.info.uaic.ro/~vlad.manea/institutions.rdf#locatedIn>
+              <file:/F:/Romania> ;
+      <http://students.info.uaic.ro/~vlad.manea/institutions.rdf#name>
+              "University Alexandru Ioan Cuza" .
+
+<file:/F:/PersonY>
+      a       <http://students.info.uaic.ro/~vlad.manea/people.rdf#Person> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#learns>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/FrenchLanguageAtUAICCenterLearnContext>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#friendOf>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/PersonX>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#name>
+              "Y" .
+
+<file:/F:/PersonZ>
+      a       <http://students.info.uaic.ro/~vlad.manea/people.rdf#Person> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#learns>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/FrenchLanguageAtUAICCenterLearnContext>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#friendOf>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/PersonX>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#name>
+              "Z" .
+
+<file:/F:/PersonX>
+      a       <http://students.info.uaic.ro/~vlad.manea/people.rdf#Person> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#knows>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/English> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_2>
+                        <file:/F:/Chinese>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#learns>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/FrenchLanguageAtUAICCenterLearnContext>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#age>
+              "20" ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#friendOf>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/PersonY> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_2>
+                        <file:/F:/PersonZ>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#name>
+              "X" ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#nationality>
+              <file:/F:/RomanianNationality> .
+
+<file:/F:/PersonTLearnsAtUAIC>
+      a       <http://students.info.uaic.ro/~vlad.manea/activities.rdf#ObserveContext> ;
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#object>
+              <file:/F:/AtUAICLearnContext> ;
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate>
+              <http://students.info.uaic.ro/~vlad.manea/activities.rdf#Learn> ;
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+              <file:/F:/PersonT> .
+
+<file:/F:/PersonP>
+      a       <http://students.info.uaic.ro/~vlad.manea/people.rdf#Person> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#observes>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/PersonXLearnsFrench>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#tells>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/PersonPTellsToXAboutT>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#name>
+              "P" ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#title>
+              "Professor" .
+
+<file:/F:/PersonXLearnsFrench>
+      a       <http://students.info.uaic.ro/~vlad.manea/activities.rdf#ObserveContext> ;
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#object>
+              <file:/F:/FrenchLanguageLearnContext> ;
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate>
+              <http://students.info.uaic.ro/~vlad.manea/activities.rdf#Learn> ;
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+              <file:/F:/PersonX> .
+
+<file:/F:/PersonT>
+      a       <http://students.info.uaic.ro/~vlad.manea/people.rdf#Person> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#knows>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/English>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#learns>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/ChineseLanguageLearnContext> , <file:/F:/AtUAICLearnContext>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#name>
+              "T" ;
+      <http://students.info.uaic.ro/~vlad.manea/people.rdf#nationality>
+              <file:/F:/FrenchNationality> .
+
+<file:/F:/FrenchLanguage>
+      a       <http://students.info.uaic.ro/~vlad.manea/languages.rdf#Language> ;
+      <http://students.info.uaic.ro/~vlad.manea/languages.rdf#countriesWhereSpoken>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/France>
+              ] .
+
+<file:/F:/FrenchLanguageAtUAICCenterLearnContext>
+      a       <http://students.info.uaic.ro/~vlad.manea/activities.rdf#LearnContext> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#subactivityOf>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/FrenchLanguageLearnContext> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_2>
+                        <file:/F:/AtUAICCenterLearnContext>
+              ] .
+
+<file:/F:/AtUAICCenterLearnContext>
+      a       <http://students.info.uaic.ro/~vlad.manea/activities.rdf#LearnContext> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#institution>
+              <file:/F:/UAICLanguageCenter> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#name>
+              "Learning at UAIC Center" ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#professors>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/PersonP>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#time>
+              <file:/F:/sundays> .
+
+<file:/F:/sundays>
+      a       <http://students.info.uaic.ro/~vlad.manea/times.rdf#Recurrent> ;
+      <http://students.info.uaic.ro/~vlad.manea/times.rdf#day>
+              "sunday" .
+
+<file:/F:/FrenchNationality>
+      a       <http://students.info.uaic.ro/~vlad.manea/geography.rdf#Nationality> ;
+      <http://students.info.uaic.ro/~vlad.manea/geography.rdf#country>
+              <file:/F:/France> .
+
+<file:/F:/EnglishLanguage>
+      a       <http://students.info.uaic.ro/~vlad.manea/languages.rdf#Language> ;
+      <http://students.info.uaic.ro/~vlad.manea/languages.rdf#countriesWhereSpoken>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/England>
+              ] .
+
+<file:/F:/France>
+      a       <http://students.info.uaic.ro/~vlad.manea/geography.rdf#Country> ;
+      <http://students.info.uaic.ro/~vlad.manea/geography.rdf#name>
+              "France" .
+
+<file:/F:/ChineseLanguageLearnContext>
+      a       <http://students.info.uaic.ro/~vlad.manea/activities.rdf#LearnContext> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#contents>
+              [ a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag> ;
+                <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1>
+                        <file:/F:/ChineseLanguage>
+              ] ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#name>
+              "Learning Chinese" .
+
+<file:/F:/AtUAICLearnContext>
+      a       <http://students.info.uaic.ro/~vlad.manea/activities.rdf#LearnContext> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#institution>
+              <file:/F:/UAIC> ;
+      <http://students.info.uaic.ro/~vlad.manea/activities.rdf#name>
+              "Learning at UAIC" .
